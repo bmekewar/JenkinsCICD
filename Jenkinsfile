@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    registry = "172.42.42.100:5000/bmekewar/JenkinsCICD"
+    registry = "172.42.42.100:5000/bmekewar/myweb"
     dockerImage = ""
   }
 
